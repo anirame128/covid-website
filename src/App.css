@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+}
+.Align-up{
+  margin-top: -38px;
+  text-align: left;
+  
+}
+
+.Component {
+  text-align: left;
+  margin-left: 71px;
+}
+
+.Align {
+  margin-top: -38px;
+  text-align: left;
+  margin-left: 203px;
+}
+
+.Align-video{
+  margin-top: -38px;
+  text-align: left;
+  margin-left: 286px;
+}
+.Align-button{
+  margin-top: -38px;
+  text-align: left;
+  margin-left: 355px;
+}
+
+
+/* .card{
+  width: 70%;   
+} */
+
+.card-header{
+  width: 100%; 
+}
+
+
