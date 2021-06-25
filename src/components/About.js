@@ -12,7 +12,7 @@ class About extends Component {
 
     changeInitial() {
         this.setState({
-            message: <div className="adjust-card"><div className="card"  style={{width: "602px", float: "right", right: "20px"}}>
+            message: <div className="adjust-card"><div className="card"  style={{width: "602px", float: "right", right: "20px", top: "20px"}}>
                  <img  src="covid-19 logo.png" alt="Card image cap" style={{width:"602px"}}></img>
             <div className="card-body" >
             <p className="card-text" >The above image shows the Covid-19 structure provided by the CDC, Centers for Disease Control and Prevention.

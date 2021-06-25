@@ -1,9 +1,11 @@
 .player-wrapper {
     /* position: relative; */
-    position:relative;
+    position:absolute;
     width: 700px;
     height: 700px;
     float: right;
     padding-top: 20px;
+    right: 10px;
+    top:730px;
     /* padding-right:50px */
   }

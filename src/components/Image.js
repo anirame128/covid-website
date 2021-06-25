@@ -5,7 +5,7 @@ class Image extends Component {
     render() {
         return (
             <div className="size-image">
-            <img src="5 steps Covid-19.jpg" alt="Card image cap" style={{position:"absolute",width:"300px",height:"350px", left:"500px"}}></img>
+            <img src="5 steps Covid-19.jpg" alt="Card image cap" style={{position:"absolute",width:"300px",height:"350px", left:"450px", top: "200px"}}></img>
             </div>
         );
     }

@@ -1,9 +1,8 @@
 .move-down {
-   float:right;
    position: absolute;
    width: 600px;
-   right:910px;
-   top:680px;
+   left: 10px;
+   top: 700px;
 }
 
 .space-down{

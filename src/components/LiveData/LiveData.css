@@ -1,8 +1,10 @@
 .container {
-    margin: 50px 0;
     float: right;
-    position:relative;
-    top:-240px;
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    margin: 0px;
+    
 }
 
 .card {
